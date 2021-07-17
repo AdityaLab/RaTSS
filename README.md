@@ -29,6 +29,7 @@ Output:
 Citations:
 ------------
 This paper is under creative common license. If you use our code and paper use the following citations.
+
 @article{tabassum2021actionable,
   title={Actionable Insights in Multivariate Time-series for Urban Analytics},
   author={Tabassum, Anika and Chinthavali, Supriya and Tansakul, Varisara and Prakash, B Aditya},
