@@ -21,9 +21,13 @@ Output:
 -------
  #located in result_file directory
  -- covid_interventions_exp.csv: nXs contains the rationalization weight of n time-series in s segments in the segment file.
+ 
  -- covid_interventions_ei.csv: nXs, each column contains the time-series index ranked by rationalization weights in _exp.csv for each segment in the segment file.
+ 
  -- covid_interventions_Prest.txt: file of n, contains cost Prest of n time-series 
+ 
  -- covid_interventions_ttl_path.txt: contains value of ttl path of the constructed segment graph, i.e., K
+ 
  -- covid_interventions_B.txt: file of nX3, contains cost K*PB-PRest,PB,Prest of n time-series 
 
 Citations:
