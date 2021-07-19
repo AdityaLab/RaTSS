@@ -3,7 +3,7 @@
 ==========================================================================
 Paper:
 -------------
-Both paper and supplementary readings are added here. Check paper.pdf and appendix.pdf
+Both paper and supplementary readings are added here. Check Ratss_SigKDD2021_MILETS.pdf
 -------------
 Usage:
 Note: You need to set the correct MATLAB_path in the makefile (Including the MATLAB executable).
